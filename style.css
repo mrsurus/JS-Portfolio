@@ -160,7 +160,8 @@ span{
 }
 
 .about-img img {
-    width: 40vw;
+    width: 25vw;
+    margin-right: 3rem;
 }
 
 .heading {
@@ -220,6 +221,7 @@ span{
 
 .portfolio {
     background: var(--second-bg-color);
+    padding-bottom: 50px;
 }
 .portfolio h2 {
     margin-bottom: 4rem;
@@ -439,7 +441,8 @@ span{
     }
     .about-img img {
         width: 70vw;
-        margin-top: 4rem;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
     }
     .services h2 {
         margin-bottom: 3rem;
